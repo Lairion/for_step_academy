@@ -1,0 +1,33 @@
+{
+    "id": "<hex_id_of_device>",
+    "commands":{
+        "turn_on" : {
+            "code": "start",
+            "value": true
+        },
+        "turn_off": {
+            "code": "start",
+            "value": false
+        },
+        "set_to_100": {
+            "code": "temp_set",
+            "value": 100
+        },
+        "set_to_85": {
+            "code": "temp_set",
+            "value": 85
+        },
+        "set_to_70": {
+            "code": "temp_set",
+            "value": 70
+        },
+        "set_to_55": {
+            "code": "temp_set",
+            "value": 55
+        },
+        "set_to_40": {
+            "code": "temp_set",
+            "value": 40
+        }
+    }
+}
