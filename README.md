@@ -48,7 +48,7 @@ Folder structure
     │   │   └── <your_png>.png
     │   └── ...
     └── ...
-
+```
 ## Setup Tuya API
 
 Go to H:\My_project\python\Geo_II\py_solution\cred and add parameter to tuya_cred.ini
